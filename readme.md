@@ -11,7 +11,7 @@ A local taxi association needs some help to manage queues at some of their taxi 
 	<img src="minivan.png" alt="" width="100" style="display:inline-block">
 </span>
 
-They need a web widget which rank managers can use to keep track of how many people are joining and leaving the queue. Once there are enough people in the queue they can board the taxi. Taxis are also queueing and people can only board a taxi if there is at least one taxi in the queue.
+They need a web widget which rank managers can use to keep track of how many people are joining and leaving taxi queues. They also want to keep track of how many taxis are queueing.
 
 ## Instructions
 
