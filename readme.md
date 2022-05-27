@@ -6,7 +6,6 @@ A local taxi association needs some help to manage queues at some of their taxi 
 	<img src="queue.png" alt="" width="100" style="display:inline-block" >
 	<img src="queue.png" alt="" width="100" style="display:inline-block" >
 	<img src="queue.png" alt="" width="100" style="display:inline-block" >
-
 	<img src="minivan.png" alt="" width="100" style="display:inline-block">
 	<img src="arrow.png" alt="" width="100" style="display:inline-block">
 	<img src="minivan.png" alt="" width="100" style="display:inline-block">
