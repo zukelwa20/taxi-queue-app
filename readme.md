@@ -28,8 +28,10 @@ The widget should keep track off:
 	- remove 12 people from the people queue
 * A taxi can only leave if there are enough people (12 people) in the queue to fill the taxi.
 
-## Please ensure
 
+## Instructions
+
+* Make all the unit tests pass in `taxi-queue.test.js`. Run the tests from `test/index.html`.
 * HTML & CSS for this widget in `index.html`
 * Some failing unit tests that you need to stop failing by implementing the TaxiQueue Factory Function in `taxi-queue.js`. Don't change the test file `test/taxi-queue.test.js`
 * A Factory function skeleton is in the `taxi-queue.js` file.
