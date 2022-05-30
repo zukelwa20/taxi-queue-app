@@ -54,4 +54,4 @@ Fork and clone this repo.
 * Github Repo & Deployed Apps: 
 	* Complete this form to send your GITHUB links:  https://docs.google.com/forms/d/e/1FAIpQLScf6UGysuph5wz_ZAtJXcqlQoQfuOdOpH_vdsbZmyMKQF5aPg/viewform
 
-And send your final submission to `mentors@projectcodex.co` by **16h00** on **30 May 2022**.
+And make sure you submit your final links by latest **16h00** on **30 May 2022**.
