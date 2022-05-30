@@ -47,4 +47,13 @@ Add a unit test/s to show that your Factory Function's constructor can initializ
 
 Fork and clone this repo.
 
+## Send links for review
+
+* Planning: Send your Problem Solving Template and Kanban Board by 10:30 (they should be mostly complete; and you can still update them after this) 
+	* Complete this form to send your Planning links: https://docs.google.com/forms/d/e/1FAIpQLScvytVS_p_Y7ZZ3gXwo9JAhwGlS_X95oMlZu13o9FQdATZLpA/viewform
+* Github Repo & Deployed Apps: 
+	* https://docs.google.com/forms/d/1_HoSyokFAPU3AMseG1kwCez-FcEj8snB3muQNKFf4iU/edit
+ 
+2. https://docs.google.com/forms/d/1yTik99Fb8YNPBmsyFajk1Nvwm_bHLMYdyvXcwPXZeec/edit
+
 And send your final submission to `mentors@projectcodex.co` by **16h00** on **30 May 2022**.
