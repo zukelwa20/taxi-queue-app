@@ -40,3 +40,9 @@ The widget should keep track off:
 Once your widget is done store all the queue counters in localStorage be sure that the data is shown correctly after a refresh.
 ### Add a unit test for localStorage
 Add a unit test/s to show that your Factory Function's constructor can initialize the people and taxi queue count.
+
+## For & clone
+
+Fork and clone this repo.
+
+And send your final submission to `mentors@projectcodex.co` by **16h00** on **30 May 2022**.
